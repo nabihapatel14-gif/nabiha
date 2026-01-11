@@ -1,2 +1,2 @@
 this is first work<br>
-my name
+my name {class}
